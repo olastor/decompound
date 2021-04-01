@@ -1,6 +1,6 @@
 # Decompound
 
-Utility for finding all possible compound-combination for a german word using an own dictionary.
+Utility for trying to find possible compound-combination for a german word using an own dictionary.
 
 - Uses stemming for dictionary and scanning through word
 - Finds all possible combinations
